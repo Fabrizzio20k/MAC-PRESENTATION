@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "REAL FUSSION",
-  description: "Real Fussion App",
+  title: "REALFUSSION",
+  description: "Reimaginando la generación de modelos 3D con algoritmos e IA",
   icons: {
     icon: "/icon.ico",
   },
